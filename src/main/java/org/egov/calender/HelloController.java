@@ -1,4 +1,4 @@
-package org.egov.eGovCalender;
+package org.egov.calender;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;

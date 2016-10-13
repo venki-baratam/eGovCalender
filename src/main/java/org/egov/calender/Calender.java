@@ -1,4 +1,4 @@
-package org.egov.eGovCalender;
+package org.egov.calender;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
